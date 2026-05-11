@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where jupyter *)",
+      "Bash(conda activate *)",
+      "Bash(jupyter kernelspec *)",
+      "Bash(conda run *)"
+    ]
+  }
+}

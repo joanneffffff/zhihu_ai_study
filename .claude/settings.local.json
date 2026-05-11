@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(conda run *)",
+      "Bash(cat *)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe chatpdf-faiss.py)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe 1-embedding计算.py)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe 1-Query改写.py)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe 2-Query联网搜索改写.py)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe 2-embedding-faiss-元数据.py)",
+      "Bash(git add *)"
+    ]
+  }
+}
