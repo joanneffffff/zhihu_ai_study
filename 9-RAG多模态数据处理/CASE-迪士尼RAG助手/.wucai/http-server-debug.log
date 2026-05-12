@@ -1,0 +1,11 @@
+[2025-12-25T13:44:42.597Z] [LocalHttpServer] AI服务初始化成功
+[2025-12-25T13:44:43.011Z] [LocalHttpServer] Canvas模块加载成功，PDF解析功能可用
+[2025-12-25T13:44:43.023Z] [LocalHttpServer] 端口 5588 未运行 Wucai 服务或无法访问
+[2025-12-25T13:44:43.328Z] [LocalHttpServer] ✓ Wucai 本地服务已启动: http://localhost:5588
+[2025-12-26T02:47:33.180Z] [LocalHttpServer] 收到请求: GET /health
+[2025-12-26T05:32:45.571Z] [LocalHttpServer] 收到请求: GET /health
+[2025-12-27T12:16:24.383Z] [LocalHttpServer] 收到请求: GET /health
+[2025-12-27T12:41:10.323Z] [LocalHttpServer] 收到请求: GET /health
+[2025-12-27T12:47:53.288Z] [LocalHttpServer] 收到请求: GET /health
+[2025-12-27T13:11:35.233Z] [LocalHttpServer] 收到请求: GET /health
+[2025-12-27T13:34:16.646Z] [LocalHttpServer] 收到请求: GET /health

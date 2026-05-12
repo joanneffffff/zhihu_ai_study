@@ -1,0 +1,9 @@
+dashscope==1.25.5
+faiss_cpu==1.7.4
+numpy==2.4.0
+openai==2.14.0
+python_docx==1.1.2
+python-dotenv==1.0.1
+PyMuPDF==1.24.0
+streamlit==1.32.0
+Pillow==10.2.0

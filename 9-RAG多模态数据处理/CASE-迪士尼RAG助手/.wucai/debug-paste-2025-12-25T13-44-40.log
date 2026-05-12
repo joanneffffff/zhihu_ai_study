@@ -1,0 +1,11 @@
+[2025-12-25T13:44:40.604Z] === DEBUG_PASTE Session Started === {"timestamp":"2025-12-25T13:44:40.604Z","platform":"win32","nodeVersion":"v22.19.0","logFile":"D:\\推荐系统\\知乎\\新课程\\6-RAG多模态数据处理\\课件打印\\CASE-迪士尼RAG助手\\.wucai\\debug-paste-2025-12-25T13-44-40.log","workingDirectory":"D:\\推荐系统\\知乎\\新课程\\6-RAG多模态数据处理\\课件打印\\CASE-迪士尼RAG助手"}
+[2025-12-25T13:46:50.172Z] 🎯 粘贴事件触发 {"eventType":"keyboard","timestamp":"2025-12-25T13:46:50.172Z","platform":"win32","isWin10":true,"eventDetails":{"keySequence":"@5-disney_query.py 帮我整理核心逻辑，写入到 .html 可以用mermaid和svg","pasteLength":52,"hasNewlines":false,"eventSource":"InputPrompt.handleInput"},"sessionStartTime":1766670410172}
+[2025-12-25T13:46:50.227Z] [TIMING] 粘贴事件完成 - SUCCESS - 55ms {"totalDuration":55,"isSlowPaste":false,"isWin10":true,"performanceWarning":null}
+[2025-12-25T13:46:50.173Z] 🔍 读取系统剪贴板文本内容（Win10调试）
+[2025-12-25T13:46:51.014Z] [TIMING] Win10 剪贴板文本读取 - SUCCESS - 841ms {"textLength":52,"hasContent":true,"isError":false,"method":"Base64EncodedScript"}
+[2025-12-25T13:46:51.015Z] [DEBUG_PASTE] Win10 剪贴板内容对比 {"isContentMatch":true,"pastedLength":52,"clipboardLength":52,"contentPreview":{"pasted":"@5-disney_query.py 帮我整理核心逻辑，写入到 .html 可以用mermaid和s...","clipboard":"@5-disney_query.py 帮我整理核心逻辑，写入到 .html 可以用mermaid和s..."}}
+[2025-12-25T13:49:44.745Z] 🎯 粘贴事件触发 {"eventType":"keyboard","timestamp":"2025-12-25T13:49:44.745Z","platform":"win32","isWin10":true,"eventDetails":{"keySequence":"关键组件详解、检索与匹配流程 这里的白色文本框中的代码都挤在了一起，可以换行\r检索与匹配流程 这里的mermaid没有显示出来","pasteLength":63,"hasNewlines":false,"eventSource":"InputPrompt.handleInput"},"sessionStartTime":1766670584745}
+[2025-12-25T13:49:44.745Z] 🔍 读取系统剪贴板文本内容（Win10调试）
+[2025-12-25T13:49:44.836Z] [TIMING] 粘贴事件完成 - SUCCESS - 91ms {"totalDuration":91,"isSlowPaste":false,"isWin10":true,"performanceWarning":null}
+[2025-12-25T13:49:45.757Z] [TIMING] Win10 剪贴板文本读取 - SUCCESS - 1012ms {"textLength":64,"hasContent":true,"isError":false,"method":"Base64EncodedScript"}
+[2025-12-25T13:49:45.758Z] [DEBUG_PASTE] Win10 剪贴板内容对比 {"isContentMatch":false,"pastedLength":63,"clipboardLength":64,"contentPreview":{"pasted":"关键组件详解、检索与匹配流程 这里的白色文本框中的代码都挤在了一起，可以换行\r检索与匹配流程 这里的...","clipboard":"关键组件详解、检索与匹配流程 这里的白色文本框中的代码都挤在了一起，可以换行\r\n检索与匹配流程 这里..."}}

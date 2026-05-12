@@ -1,0 +1,859 @@
+476 🆕 New debug session started (non-stream mode)
+478 📖 MarkdownDisplay processing (non-stream): {"textLength":235,"linesCount":9}
+481 ✅ Non-stream render completed: {"textLength":235,"blocksCount":9,"linesProcessed":9}
+482 📖 MarkdownDisplay processing (non-stream): {"textLength":235,"linesCount":9}
+483 ✅ Non-stream render completed: {"textLength":235,"blocksCount":9,"linesProcessed":9}
+2025/12/25 21:47:58.741 === EVERY KEY EVENT === {
+  "sequence": "/",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:47:58.742 🔑 Key event received: {
+  "sequence": "/",
+  "ctrl": false
+}
+2025/12/25 21:47:59.198 === EVERY KEY EVENT === {
+  "name": "a",
+  "sequence": "a",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:47:59.199 🔑 Key event received: {
+  "name": "a",
+  "sequence": "a",
+  "ctrl": false
+}
+2025/12/25 21:47:59.344 === EVERY KEY EVENT === {
+  "name": "u",
+  "sequence": "u",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:47:59.345 🔑 Key event received: {
+  "name": "u",
+  "sequence": "u",
+  "ctrl": false
+}
+2025/12/25 21:47:59.568 === EVERY KEY EVENT === {
+  "name": "t",
+  "sequence": "t",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:47:59.569 🔑 Key event received: {
+  "name": "t",
+  "sequence": "t",
+  "ctrl": false
+}
+2025/12/25 21:47:59.658 === EVERY KEY EVENT === {
+  "name": "h",
+  "sequence": "h",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:47:59.659 🔑 Key event received: {
+  "name": "h",
+  "sequence": "h",
+  "ctrl": false
+}
+2025/12/25 21:47:59.983 === EVERY KEY EVENT === {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:47:59.984 🔑 Key event received: {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false
+}
+2025/12/25 21:48:01.037 === EVERY KEY EVENT === {
+  "name": "down",
+  "sequence": "\u001b[B",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:01.038 🔑 Key event received: {
+  "name": "down",
+  "sequence": "\u001b[B",
+  "ctrl": false
+}
+2025/12/25 21:48:02.828 === EVERY KEY EVENT === {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:02.830 🔑 Key event received: {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false
+}
+2025/12/25 21:48:03.952 === EVERY KEY EVENT === {
+  "name": "y",
+  "sequence": "y",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:03.954 🔑 Key event received: {
+  "name": "y",
+  "sequence": "y",
+  "ctrl": false
+}
+2025/12/25 21:48:10.894 === EVERY KEY EVENT === {
+  "sequence": "/",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:10.896 🔑 Key event received: {
+  "sequence": "/",
+  "ctrl": false
+}
+2025/12/25 21:48:11.068 === EVERY KEY EVENT === {
+  "name": "a",
+  "sequence": "a",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:11.069 🔑 Key event received: {
+  "name": "a",
+  "sequence": "a",
+  "ctrl": false
+}
+2025/12/25 21:48:11.192 === EVERY KEY EVENT === {
+  "name": "u",
+  "sequence": "u",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:11.193 🔑 Key event received: {
+  "name": "u",
+  "sequence": "u",
+  "ctrl": false
+}
+2025/12/25 21:48:11.390 === EVERY KEY EVENT === {
+  "name": "t",
+  "sequence": "t",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:11.391 🔑 Key event received: {
+  "name": "t",
+  "sequence": "t",
+  "ctrl": false
+}
+2025/12/25 21:48:11.476 === EVERY KEY EVENT === {
+  "name": "h",
+  "sequence": "h",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:11.477 🔑 Key event received: {
+  "name": "h",
+  "sequence": "h",
+  "ctrl": false
+}
+2025/12/25 21:48:13.406 === EVERY KEY EVENT === {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:13.407 🔑 Key event received: {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false
+}
+2025/12/25 21:48:15.808 === EVERY KEY EVENT === {
+  "name": "up",
+  "sequence": "\u001b[A",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:15.810 🔑 Key event received: {
+  "name": "up",
+  "sequence": "\u001b[A",
+  "ctrl": false
+}
+2025/12/25 21:48:20.280 === EVERY KEY EVENT === {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:20.281 🔑 Key event received: {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false
+}
+2025/12/25 21:48:25.816 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:48:25.817 FOCUS_OUT event detected and filtered out
+2025/12/25 21:49:38.882 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:38.884 FOCUS_IN event detected and filtered out
+2025/12/25 21:49:41.073 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:41.075 FOCUS_OUT event detected and filtered out
+2025/12/25 21:49:42.702 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:42.704 FOCUS_IN event detected and filtered out
+2025/12/25 21:49:43.096 === EVERY KEY EVENT === {
+  "name": "1",
+  "sequence": "1",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:43.097 🔑 Key event received: {
+  "name": "1",
+  "sequence": "1",
+  "ctrl": false
+}
+2025/12/25 21:49:43.170 === EVERY KEY EVENT === {
+  "name": "2",
+  "sequence": "2",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:43.172 🔑 Key event received: {
+  "name": "2",
+  "sequence": "2",
+  "ctrl": false
+}
+2025/12/25 21:49:43.212 === EVERY KEY EVENT === {
+  "name": "3",
+  "sequence": "3",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:43.213 🔑 Key event received: {
+  "name": "3",
+  "sequence": "3",
+  "ctrl": false
+}
+2025/12/25 21:49:43.924 === EVERY KEY EVENT === {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:43.925 🔑 Key event received: {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false
+}
+2025/12/25 21:49:44.079 === EVERY KEY EVENT === {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.081 🔑 Key event received: {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false
+}
+2025/12/25 21:49:44.250 === EVERY KEY EVENT === {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.252 🔑 Key event received: {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false
+}
+2025/12/25 21:49:44.668 === EVERY KEY EVENT === {
+  "name": "paste-start",
+  "sequence": "\u001b[200~",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.670 📥 Bracketed paste started - applying text-first strategy
+2025/12/25 21:49:44.671 Bracketed paste - checking for text content first
+2025/12/25 21:49:44.672 📋 Using reliable PowerShell clipboard read {
+  "winVersion": "10.0.26100 (Win11+)",
+  "isPassthroughMode": false,
+  "timeout": 800
+}
+2025/12/25 21:49:44.674 === EVERY KEY EVENT === {
+  "sequence": "关",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.676 === EVERY KEY EVENT === {
+  "sequence": "键",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.679 === EVERY KEY EVENT === {
+  "sequence": "组",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.681 === EVERY KEY EVENT === {
+  "sequence": "件",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.683 === EVERY KEY EVENT === {
+  "sequence": "详",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.686 === EVERY KEY EVENT === {
+  "sequence": "解",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.687 === EVERY KEY EVENT === {
+  "sequence": "、",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.688 === EVERY KEY EVENT === {
+  "sequence": "检",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.690 === EVERY KEY EVENT === {
+  "sequence": "索",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.692 === EVERY KEY EVENT === {
+  "sequence": "与",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.693 === EVERY KEY EVENT === {
+  "sequence": "匹",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.694 === EVERY KEY EVENT === {
+  "sequence": "配",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.695 === EVERY KEY EVENT === {
+  "sequence": "流",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.696 === EVERY KEY EVENT === {
+  "sequence": "程",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.697 === EVERY KEY EVENT === {
+  "name": "space",
+  "sequence": " ",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.698 === EVERY KEY EVENT === {
+  "sequence": "这",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.699 === EVERY KEY EVENT === {
+  "sequence": "里",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.700 === EVERY KEY EVENT === {
+  "sequence": "的",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.701 === EVERY KEY EVENT === {
+  "sequence": "白",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.702 === EVERY KEY EVENT === {
+  "sequence": "色",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.703 === EVERY KEY EVENT === {
+  "sequence": "文",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.704 === EVERY KEY EVENT === {
+  "sequence": "本",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.705 === EVERY KEY EVENT === {
+  "sequence": "框",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.705 === EVERY KEY EVENT === {
+  "sequence": "中",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.706 === EVERY KEY EVENT === {
+  "sequence": "的",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.707 === EVERY KEY EVENT === {
+  "sequence": "代",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.708 === EVERY KEY EVENT === {
+  "sequence": "码",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.709 === EVERY KEY EVENT === {
+  "sequence": "都",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.710 === EVERY KEY EVENT === {
+  "sequence": "挤",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.712 === EVERY KEY EVENT === {
+  "sequence": "在",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.713 === EVERY KEY EVENT === {
+  "sequence": "了",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.714 === EVERY KEY EVENT === {
+  "sequence": "一",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.715 === EVERY KEY EVENT === {
+  "sequence": "起",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.716 === EVERY KEY EVENT === {
+  "sequence": "，",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.717 === EVERY KEY EVENT === {
+  "sequence": "可",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.718 === EVERY KEY EVENT === {
+  "sequence": "以",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.719 === EVERY KEY EVENT === {
+  "sequence": "换",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.720 === EVERY KEY EVENT === {
+  "sequence": "行",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.721 === EVERY KEY EVENT === {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.723 === EVERY KEY EVENT === {
+  "sequence": "检",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.724 === EVERY KEY EVENT === {
+  "sequence": "索",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.725 === EVERY KEY EVENT === {
+  "sequence": "与",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.725 === EVERY KEY EVENT === {
+  "sequence": "匹",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.727 === EVERY KEY EVENT === {
+  "sequence": "配",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.727 === EVERY KEY EVENT === {
+  "sequence": "流",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.728 === EVERY KEY EVENT === {
+  "sequence": "程",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.729 === EVERY KEY EVENT === {
+  "name": "space",
+  "sequence": " ",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.730 === EVERY KEY EVENT === {
+  "sequence": "这",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.730 === EVERY KEY EVENT === {
+  "sequence": "里",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.731 === EVERY KEY EVENT === {
+  "sequence": "的",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.732 === EVERY KEY EVENT === {
+  "name": "m",
+  "sequence": "m",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.733 === EVERY KEY EVENT === {
+  "name": "e",
+  "sequence": "e",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.734 === EVERY KEY EVENT === {
+  "name": "r",
+  "sequence": "r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.735 === EVERY KEY EVENT === {
+  "name": "m",
+  "sequence": "m",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.736 === EVERY KEY EVENT === {
+  "name": "a",
+  "sequence": "a",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.736 === EVERY KEY EVENT === {
+  "name": "i",
+  "sequence": "i",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.737 === EVERY KEY EVENT === {
+  "name": "d",
+  "sequence": "d",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.738 === EVERY KEY EVENT === {
+  "sequence": "没",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.739 === EVERY KEY EVENT === {
+  "sequence": "有",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.739 === EVERY KEY EVENT === {
+  "sequence": "显",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.740 === EVERY KEY EVENT === {
+  "sequence": "示",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.741 === EVERY KEY EVENT === {
+  "sequence": "出",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.742 === EVERY KEY EVENT === {
+  "sequence": "来",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.743 === EVERY KEY EVENT === {
+  "name": "paste-end",
+  "sequence": "\u001b[201~",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:44.744 📤 Bracketed paste ended {
+  "bufferSize": 169,
+  "contentPreview": "关键组件详解、检索与匹配流程 这里的白色文本框中的代码都挤在了一起，可以换行\r检索与匹配流程 这里的"
+}
+2025/12/25 21:49:45.615 === EVERY KEY EVENT === {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:49:45.616 🔑 Key event received: {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false
+}
+2025/12/25 21:49:45.752 📋 PowerShell clipboard read successful: {
+  "length": 66,
+  "preview": "关键组件详解、检索与匹配流程 这里的白色文本框中的代码都挤在了一起，可以换行\r\n检索与匹配流程 这里"
+}
+2025/12/25 21:49:45.754 📋 Fresh clipboard content cached: {
+  "length": 66,
+  "preview": "关键组件详解、检索与匹配流程 这里的白色文本框中的代码都挤在了一起，可以换行\r\n检索与匹配流程 这里"
+}
+2025/12/25 21:49:45.755 Bracketed paste - text content found, ignoring any images
+969 📖 MarkdownDisplay processing (non-stream): {"textLength":184,"linesCount":7}
+972 ✅ Non-stream render completed: {"textLength":184,"blocksCount":7,"linesProcessed":7}
+973 📖 MarkdownDisplay processing (non-stream): {"textLength":184,"linesCount":7}
+975 ✅ Non-stream render completed: {"textLength":184,"blocksCount":7,"linesProcessed":7}
+815 📖 MarkdownDisplay processing (non-stream): {"textLength":235,"linesCount":9}
+817 ✅ Non-stream render completed: {"textLength":235,"blocksCount":9,"linesProcessed":9}
+818 📖 MarkdownDisplay processing (non-stream): {"textLength":235,"linesCount":9}
+820 ✅ Non-stream render completed: {"textLength":235,"blocksCount":9,"linesProcessed":9}
+901 📖 MarkdownDisplay processing (non-stream): {"textLength":184,"linesCount":7}
+903 ✅ Non-stream render completed: {"textLength":184,"blocksCount":7,"linesProcessed":7}
+905 📖 MarkdownDisplay processing (non-stream): {"textLength":184,"linesCount":7}
+907 ✅ Non-stream render completed: {"textLength":184,"blocksCount":7,"linesProcessed":7}
+2025/12/25 21:50:21.445 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:50:21.446 FOCUS_OUT event detected and filtered out
+2025/12/25 21:50:28.914 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:50:28.916 FOCUS_IN event detected and filtered out
+2025/12/25 21:50:41.016 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:50:41.017 FOCUS_OUT event detected and filtered out
+2025/12/25 21:51:23.285 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:51:23.286 FOCUS_IN event detected and filtered out
+2025/12/25 21:51:40.465 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/25 21:51:40.467 FOCUS_OUT event detected and filtered out
+2025/12/26 10:45:01.632 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/26 10:45:01.636 FOCUS_IN event detected and filtered out
+943 📖 MarkdownDisplay processing (non-stream): {"textLength":235,"linesCount":9}
+948 ✅ Non-stream render completed: {"textLength":235,"blocksCount":9,"linesProcessed":9}
+949 📖 MarkdownDisplay processing (non-stream): {"textLength":235,"linesCount":9}
+950 ✅ Non-stream render completed: {"textLength":235,"blocksCount":9,"linesProcessed":9}
+025 📖 MarkdownDisplay processing (non-stream): {"textLength":184,"linesCount":7}
+028 ✅ Non-stream render completed: {"textLength":184,"blocksCount":7,"linesProcessed":7}
+029 📖 MarkdownDisplay processing (non-stream): {"textLength":184,"linesCount":7}
+032 ✅ Non-stream render completed: {"textLength":184,"blocksCount":7,"linesProcessed":7}
+2025/12/26 10:45:03.921 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/26 10:45:03.923 FOCUS_OUT event detected and filtered out
+2025/12/26 10:45:11.155 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/26 10:45:11.156 FOCUS_IN event detected and filtered out
+2025/12/26 10:45:32.344 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/26 10:45:32.347 FOCUS_OUT event detected and filtered out
+2025/12/28 10:17:19.717 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 10:17:19.730 FOCUS_IN event detected and filtered out
+2025/12/28 10:17:19.757 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 10:17:19.759 FOCUS_IN event detected and filtered out
+2025/12/28 10:17:22.069 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 10:17:22.072 FOCUS_OUT event detected and filtered out
