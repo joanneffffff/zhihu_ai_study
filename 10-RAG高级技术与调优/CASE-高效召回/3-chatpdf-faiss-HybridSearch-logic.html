@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3-chatpdf-faiss-HybridSearch 核心逻辑</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .mermaid { text-align: center; margin: 20px 0; }
+        h1, h2 { color: #2c3e50; }
+        .logic-section { margin: 20px 0; padding: 15px; border-left: 4px solid #3498db; background-color: #f8f9fa; }
+        .code-block { background-color: #2c3e50; color: #ecf0f1; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace; }
+    </style>
+</head>
+<body>
+    <h1>3-chatpdf-faiss-HybridSearch 核心逻辑</h1>
+
+    <div class="logic-section">
+        <h2>整体流程</h2>
+        <div class="mermaid">
+            flowchart TD
+                A[开始] --> B[加载/创建向量数据库]
+                B --> C[创建HybridRetriever]
+                C --> D[初始化BM25索引]
+                D --> E[设置查询]
+                E --> F[生成多查询变体]
+                F --> G[对每个查询执行混合检索]
+                G --> H[合并去重结果]
+                H --> I[生成回答]
+                I --> J[输出结果]
+        </div>
+    </div>
+
+    <div class="logic-section">
+        <h2>HybridRetriever 混合检索器</h2>
+        <div class="mermaid">
+            flowchart LR
+                A[HybridRetriever] --> B[FAISS向量检索]
+                A --> C[BM25文本检索]
+                B --> D[融合分数]
+                C --> D
+                D --> E[返回top-k结果]
+        </div>
+        <p>关键参数: alpha (向量检索权重), 1-alpha (BM25权重)</p>
+    </div>
+
+    <div class="logic-section">
+        <h2>混合检索过程</h2>
+        <div class="mermaid">
+            sequenceDiagram
+                participant Q as 查询
+                participant R as HybridRetriever
+                participant V as FAISS
+                participant B as BM25
+                participant M as 分数融合
+                
+                Q->>R: 执行search(query, k)
+                R->>V: 向量相似度检索
+                R->>B: BM25检索
+                V->>M: 提供向量分数
+                B->>M: 提供BM25分数
+                M->>R: 融合分数计算
+                R->>Q: 返回top-k结果
+        </div>
+    </div>
+
+    <div class="logic-section">
+        <h2>多查询增强</h2>
+        <div class="mermaid">
+            flowchart TD
+                A[原始查询] --> B[LLM生成变体]
+                B --> C[查询1]
+                B --> D[查询2]
+                B --> E[查询3]
+                C --> F[混合检索]
+                D --> F
+                E --> F
+                F --> G[结果去重合并]
+        </div>
+        <p>使用LLM生成多个查询视角，提高召回质量</p>
+    </div>
+
+    <div class="logic-section">
+        <h2>核心代码结构</h2>
+        <div class="code-block">
+class HybridRetriever:
+    def __init__(self, chunks, vectorstore, alpha=0.5)
+    def search(self, query, k=4)
+
+主要功能函数:
+- extract_text_with_page_numbers(): PDF文本提取
+- tokenize_chinese(): 中文分词
+- process_text_with_splitter(): 文本分块和向量化
+- generate_multi_queries(): 生成查询变体
+- hybrid_multi_query_search(): 混合多查询检索
+        </div>
+    </div>
+
+    <div class="logic-section">
+        <h2>数据流向</h2>
+        <div class="mermaid">
+            graph LR
+                subgraph "数据预处理"
+                A[PDF文件] --> B[文本提取]
+                B --> C[文本分块]
+                C --> D[向量嵌入]
+                C --> E[BM25索引]
+                end
+                
+                subgraph "检索阶段"
+                F[查询] --> G[多查询生成]
+                G --> H[向量检索]
+                G --> I[BM25检索]
+                H --> J[分数融合]
+                I --> J
+                J --> K[返回结果]
+                end
+                
+                D --> H
+                E --> I
+        </div>
+    </div>
+</body>
+</html>

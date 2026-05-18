@@ -1,0 +1,8 @@
+[2025-12-28T13:34:12.028Z] [LocalHttpServer] AI服务初始化成功
+[2025-12-28T13:34:12.384Z] [LocalHttpServer] Canvas模块加载成功，PDF解析功能可用
+[2025-12-28T13:34:12.394Z] [LocalHttpServer] 端口 5588 未运行 Wucai 服务或无法访问
+[2025-12-28T13:34:12.630Z] [LocalHttpServer] ✓ Wucai 本地服务已启动: http://localhost:5588
+[2025-12-28T13:34:52.818Z] [LocalHttpServer] AI服务初始化成功
+[2025-12-28T13:34:52.971Z] [LocalHttpServer] Canvas模块加载成功，PDF解析功能可用
+[2025-12-28T13:34:52.979Z] [LocalHttpServer] 端口 5588 未运行 Wucai 服务或无法访问
+[2025-12-28T13:34:53.187Z] [LocalHttpServer] ✓ Wucai 本地服务已启动: http://localhost:5588

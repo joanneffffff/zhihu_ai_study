@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda run *)",
+      "Bash(conda activate *)",
+      "Bash(python \"1-知识库问题生成与检索优化-BM25.py\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe \"1-知识库问题生成与检索优化-BM25.py\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe -c \"from dotenv import load_dotenv; import os; load_dotenv\\(\\); print\\('DASHSCOPE_API_KEY:', os.getenv\\('DASHSCOPE_API_KEY'\\)[:20] + '...'\\)\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe -c ' *)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe -c \"from dotenv import load_dotenv; import os; load_dotenv\\(\\); api_key = os.getenv\\('DASHSCOPE_API_KEY'\\); print\\('API Key loaded:', 'Yes' if api_key else 'No'\\); print\\('Key prefix:', api_key[:20] if api_key else 'None'\\)\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe beg-reranker.py)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe gte-qwen2-使用1.py)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe \"4-知识库版本管理与性能比较.py\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe \"1-MultiQueryRetriever使用.py\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe \"2-chatpdf-faiss-MultiQueryRetriever.py\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe \"3-chatpdf-faiss-HybridSearch.py\")",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe \"4-chatpdf-faiss-HybridSearch-Rerank.py\")"
+    ]
+  }
+}

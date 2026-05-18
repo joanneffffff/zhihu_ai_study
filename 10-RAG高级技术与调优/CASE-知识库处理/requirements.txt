@@ -1,0 +1,7 @@
+dashscope==1.25.5
+faiss_cpu==1.7.4
+jieba==0.42.1
+numpy==2.4.0
+openai==2.14.0
+pandas==2.3.3
+rank_bm25==0.2.2

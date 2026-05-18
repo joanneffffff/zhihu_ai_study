@@ -1,0 +1,337 @@
+129 🆕 New debug session started (non-stream mode)
+130 📖 MarkdownDisplay processing (non-stream): {"textLength":187,"linesCount":11}
+132 ✅ Non-stream render completed: {"textLength":187,"blocksCount":11,"linesProcessed":11}
+134 📖 MarkdownDisplay processing (non-stream): {"textLength":187,"linesCount":11}
+135 ✅ Non-stream render completed: {"textLength":187,"blocksCount":11,"linesProcessed":11}
+2025/12/28 21:35:39.712 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:35:39.714 FOCUS_OUT event detected and filtered out
+2025/12/28 21:36:49.755 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:49.757 FOCUS_IN event detected and filtered out
+2025/12/28 21:36:50.409 === EVERY KEY EVENT === {
+  "name": "h",
+  "sequence": "h",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:50.411 🔑 Key event received: {
+  "name": "h",
+  "sequence": "h",
+  "ctrl": false
+}
+2025/12/28 21:36:50.516 === EVERY KEY EVENT === {
+  "name": "e",
+  "sequence": "e",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:50.517 🔑 Key event received: {
+  "name": "e",
+  "sequence": "e",
+  "ctrl": false
+}
+2025/12/28 21:36:50.926 === EVERY KEY EVENT === {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:50.928 🔑 Key event received: {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false
+}
+2025/12/28 21:36:51.066 === EVERY KEY EVENT === {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:51.068 🔑 Key event received: {
+  "name": "backspace",
+  "sequence": "",
+  "ctrl": false
+}
+2025/12/28 21:36:52.199 === EVERY KEY EVENT === {
+  "sequence": "黑",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:52.201 🔑 Key event received: {
+  "sequence": "黑",
+  "ctrl": false
+}
+2025/12/28 21:36:52.202 === EVERY KEY EVENT === {
+  "sequence": "框",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:52.203 🔑 Key event received: {
+  "sequence": "框",
+  "ctrl": false
+}
+2025/12/28 21:36:53.557 === EVERY KEY EVENT === {
+  "sequence": "中",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:53.558 🔑 Key event received: {
+  "sequence": "中",
+  "ctrl": false
+}
+2025/12/28 21:36:53.816 === EVERY KEY EVENT === {
+  "sequence": "的",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:53.818 🔑 Key event received: {
+  "sequence": "的",
+  "ctrl": false
+}
+2025/12/28 21:36:54.312 === EVERY KEY EVENT === {
+  "sequence": "代",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:54.314 🔑 Key event received: {
+  "sequence": "代",
+  "ctrl": false
+}
+2025/12/28 21:36:54.315 === EVERY KEY EVENT === {
+  "sequence": "码",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:54.316 🔑 Key event received: {
+  "sequence": "码",
+  "ctrl": false
+}
+2025/12/28 21:36:54.812 === EVERY KEY EVENT === {
+  "sequence": "都",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:54.815 🔑 Key event received: {
+  "sequence": "都",
+  "ctrl": false
+}
+2025/12/28 21:36:55.550 === EVERY KEY EVENT === {
+  "sequence": "挤",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:55.552 🔑 Key event received: {
+  "sequence": "挤",
+  "ctrl": false
+}
+2025/12/28 21:36:55.892 === EVERY KEY EVENT === {
+  "sequence": "在",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:55.894 🔑 Key event received: {
+  "sequence": "在",
+  "ctrl": false
+}
+2025/12/28 21:36:56.257 === EVERY KEY EVENT === {
+  "sequence": "了",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:56.259 🔑 Key event received: {
+  "sequence": "了",
+  "ctrl": false
+}
+2025/12/28 21:36:56.811 === EVERY KEY EVENT === {
+  "sequence": "一",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:56.813 🔑 Key event received: {
+  "sequence": "一",
+  "ctrl": false
+}
+2025/12/28 21:36:56.816 === EVERY KEY EVENT === {
+  "sequence": "行",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:56.817 🔑 Key event received: {
+  "sequence": "行",
+  "ctrl": false
+}
+2025/12/28 21:36:57.173 === EVERY KEY EVENT === {
+  "sequence": "中",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:57.175 🔑 Key event received: {
+  "sequence": "中",
+  "ctrl": false
+}
+2025/12/28 21:36:57.266 === EVERY KEY EVENT === {
+  "sequence": "，",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:57.268 🔑 Key event received: {
+  "sequence": "，",
+  "ctrl": false
+}
+2025/12/28 21:36:57.649 === EVERY KEY EVENT === {
+  "sequence": "可",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:57.651 🔑 Key event received: {
+  "sequence": "可",
+  "ctrl": false
+}
+2025/12/28 21:36:57.653 === EVERY KEY EVENT === {
+  "sequence": "以",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:57.656 🔑 Key event received: {
+  "sequence": "以",
+  "ctrl": false
+}
+2025/12/28 21:36:58.537 === EVERY KEY EVENT === {
+  "sequence": "换",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:58.539 🔑 Key event received: {
+  "sequence": "换",
+  "ctrl": false
+}
+2025/12/28 21:36:58.540 === EVERY KEY EVENT === {
+  "sequence": "行",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:58.541 🔑 Key event received: {
+  "sequence": "行",
+  "ctrl": false
+}
+2025/12/28 21:36:58.647 === EVERY KEY EVENT === {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:36:58.648 🔑 Key event received: {
+  "name": "return",
+  "sequence": "\r",
+  "ctrl": false
+}
+2025/12/28 21:37:00.673 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:37:00.677 FOCUS_OUT event detected and filtered out
+132 📖 MarkdownDisplay processing (non-stream): {"textLength":365,"linesCount":14}
+136 ✅ Non-stream render completed: {"textLength":365,"blocksCount":3,"linesProcessed":14}
+139 📖 MarkdownDisplay processing (non-stream): {"textLength":365,"linesCount":14}
+141 ✅ Non-stream render completed: {"textLength":365,"blocksCount":3,"linesProcessed":14}
+2025/12/28 21:37:12.672 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:37:12.674 FOCUS_IN event detected and filtered out
+2025/12/28 21:37:12.724 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:37:12.726 FOCUS_IN event detected and filtered out
+2025/12/28 21:37:14.396 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:37:14.400 FOCUS_OUT event detected and filtered out
+2025/12/28 21:37:16.848 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:37:16.849 FOCUS_IN event detected and filtered out
+2025/12/28 21:37:21.674 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[O",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/28 21:37:21.678 FOCUS_OUT event detected and filtered out
+2025/12/29 08:50:13.927 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/29 08:50:13.945 FOCUS_IN event detected and filtered out
+2025/12/29 08:50:13.977 === EVERY KEY EVENT === {
+  "name": "undefined",
+  "sequence": "\u001b[I",
+  "ctrl": false,
+  "shift": false,
+  "meta": false
+}
+2025/12/29 08:50:13.979 FOCUS_IN event detected and filtered out
+320 📖 MarkdownDisplay processing (non-stream): {"textLength":187,"linesCount":11}
+325 ✅ Non-stream render completed: {"textLength":187,"blocksCount":11,"linesProcessed":11}
+327 📖 MarkdownDisplay processing (non-stream): {"textLength":187,"linesCount":11}
+329 ✅ Non-stream render completed: {"textLength":187,"blocksCount":11,"linesProcessed":11}
+354 📖 MarkdownDisplay processing (non-stream): {"textLength":365,"linesCount":14}
+356 ✅ Non-stream render completed: {"textLength":365,"blocksCount":3,"linesProcessed":14}
+357 📖 MarkdownDisplay processing (non-stream): {"textLength":365,"linesCount":14}
+359 ✅ Non-stream render completed: {"textLength":365,"blocksCount":3,"linesProcessed":14}

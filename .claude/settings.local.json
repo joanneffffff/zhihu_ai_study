@@ -9,7 +9,31 @@
       "Bash(D:/softwares/anaconda/envs/zhihu/python.exe 1-Query改写.py)",
       "Bash(D:/softwares/anaconda/envs/zhihu/python.exe 2-Query联网搜索改写.py)",
       "Bash(D:/softwares/anaconda/envs/zhihu/python.exe 2-embedding-faiss-元数据.py)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git branch *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe -m uvicorn backend_api:app --host 0.0.0.0 --port 8000)",
+      "Bash(curl -s http://localhost:8000/health)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe -m streamlit run frontend_app.py --server.port 8501)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe -m streamlit run frontend_app.py --server.port 8501 --server.headless true)",
+      "Bash(python -m uvicorn backend_api:app --port 8000)",
+      "Bash(streamlit run *)",
+      "Bash(conda activate *)",
+      "Bash(curl -s http://localhost:8501/_stcore/health)",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/python.exe\" 6-disney_build_full_index.py)",
+      "Bash(D:/softwares/anaconda/envs/zhihu/python.exe -c ' *)",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/python.exe\" -c \"import streamlit; print\\('Streamlit version:', streamlit.__version__\\)\")",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/Scripts/streamlit.exe\" run *)",
+      "Bash(tasklist)",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/python.exe\" -m pip install playwright -q)",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/python.exe\" -m playwright install chromium)",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/python.exe\" -c \"from playwright.sync_api import sync_playwright; print\\('playwright OK'\\)\")",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/python.exe\" -m pip install playwright --quiet)",
+      "Bash(\"D:/softwares/anaconda/envs/zhihu/python.exe\" -m playwright install chromium --quiet)",
+      "Bash(D:/softwares/anaconda/envs/fastapi/python.exe *)",
+      "Bash(PYTHONIOENCODING=utf-8 D:/softwares/anaconda/envs/fastapi/python.exe *)"
     ]
   }
 }
